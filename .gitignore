@@ -1,0 +1,5 @@
+*.pyc
+*.cfg
+script/test.jpg
+script/megalovania.mp3
+deep_animator_model.pth.tar
